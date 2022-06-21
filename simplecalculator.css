@@ -1,5 +1,7 @@
 
 
+
+
 .footer {
     background-color: #214e8f;
     color: white;
@@ -16,6 +18,7 @@
     margin-bottom: 16px;
     margin-right: 8px;
 
+
 .btn-primary {
     background-color: #214e8f;
     color: white;
@@ -25,11 +28,14 @@
     align-content: center;
 
 
+
+
 }
 .header-logo {
     width: 100px;
     height: auto;
  
+
 
 
   }
